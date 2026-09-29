@@ -48,9 +48,9 @@ export default function Profile() {
           <span style={{ fontSize: 12, color: 'var(--text3)' }}>4 liên kết</span>
         </div>
 
-        <a className="link" href="https://github.com" target="_blank" rel="noreferrer">
+        <a className="link" href="https://github.com/hiep20905/BTL-IOT" target="_blank" rel="noreferrer">
           <IconGithub style={{ fontSize: 22 }} />
-          <div><div className="lt">Mã nguồn</div><div className="ls">github.com/…</div></div>
+          <div><div className="lt">Mã nguồn</div><div className="ls">github.com/hiep20905/BTL-IOT</div></div>
         </a>
 
         <div className="link">
