@@ -1,0 +1,17 @@
+# Secrets
+.env
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+frontend/dist/
+
+# Misc
+recipes.json
+.DS_Store
+Thumbs.db

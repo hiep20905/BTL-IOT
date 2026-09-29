@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+PyMySQL
+cryptography
+paho-mqtt
+PyJWT
+bcrypt
+pydantic-settings
